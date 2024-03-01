@@ -1,0 +1,140 @@
+Error Rate Average: 0.042508915137484005 [sc_0/Q1/e_1]
+Total Error Average: 6061.717193840974 [sc_0/Q1/e_1]
+Time Average: 0.8602250576019287 [sc_0/Q1/e_1]
+
+
+Error Rate Average: 0.022790987881355244 [sc_0/Q1/e_2]
+Total Error Average: 3440.947543681102 [sc_0/Q1/e_2]
+Time Average: 0.8623736381530762 [sc_0/Q1/e_2]
+
+
+Error Rate Average: 0.011284275833858149 [sc_0/Q1/e_4]
+Total Error Average: 1616.116942763111 [sc_0/Q1/e_4]
+Time Average: 0.8615381002426148 [sc_0/Q1/e_4]
+
+
+Error Rate Average: 0.006540744892855143 [sc_0/Q1/e_8]
+Total Error Average: 947.4420909036356 [sc_0/Q1/e_8]
+Time Average: 0.8691719770431519 [sc_0/Q1/e_8]
+
+
+Error Rate Average: 0.021010482252052987 [sc_1/Q1/e_1]
+Total Error Average: 6448.180742638162 [sc_1/Q1/e_1]
+Time Average: 1.7222111225128174 [sc_1/Q1/e_1]
+
+
+Error Rate Average: 0.01139744400230942 [sc_1/Q1/e_2]
+Total Error Average: 3355.202576855155 [sc_1/Q1/e_2]
+Time Average: 1.7333858966827393 [sc_1/Q1/e_2]
+
+
+Error Rate Average: 0.006649679700869907 [sc_1/Q1/e_4]
+Total Error Average: 1983.8315323616837 [sc_1/Q1/e_4]
+Time Average: 1.743663740158081 [sc_1/Q1/e_4]
+
+
+Error Rate Average: 0.0035508358900740713 [sc_1/Q1/e_8]
+Total Error Average: 1069.3708866351312 [sc_1/Q1/e_8]
+Time Average: 1.7465135097503661 [sc_1/Q1/e_8]
+
+
+Error Rate Average: 0.011107739207679176 [sc_2/Q1/e_1]
+Total Error Average: 6840.301363065436 [sc_2/Q1/e_1]
+Time Average: 3.4259372472763063 [sc_2/Q1/e_1]
+
+
+Error Rate Average: 0.00658951688807497 [sc_2/Q1/e_2]
+Total Error Average: 4037.6238733693135 [sc_2/Q1/e_2]
+Time Average: 3.489050102233887 [sc_2/Q1/e_2]
+
+
+Error Rate Average: 0.003439867168907819 [sc_2/Q1/e_4]
+Total Error Average: 2133.869114518557 [sc_2/Q1/e_4]
+Time Average: 3.4699985504150392 [sc_2/Q1/e_4]
+
+
+Error Rate Average: 0.001758698316942518 [sc_2/Q1/e_8]
+Total Error Average: 1073.8093725074891 [sc_2/Q1/e_8]
+Time Average: 3.499079728126526 [sc_2/Q1/e_8]
+
+
+Error Rate Average: 0.006684261171411921 [sc_3/Q1/e_1]
+Total Error Average: 8490.076096652934 [sc_3/Q1/e_1]
+Time Average: 7.040800929069519 [sc_3/Q1/e_1]
+
+
+Error Rate Average: 0.0032865354289170145 [sc_3/Q1/e_2]
+Total Error Average: 4160.91444283246 [sc_3/Q1/e_2]
+Time Average: 7.004337120056152 [sc_3/Q1/e_2]
+
+
+Error Rate Average: 0.0016374798911313077 [sc_3/Q1/e_4]
+Total Error Average: 2056.699726143783 [sc_3/Q1/e_4]
+Time Average: 7.025277876853943 [sc_3/Q1/e_4]
+
+
+Error Rate Average: 0.0008728955838353553 [sc_3/Q1/e_8]
+Total Error Average: 1115.0268701260957 [sc_3/Q1/e_8]
+Time Average: 7.057450795173645 [sc_3/Q1/e_8]
+
+
+Error Rate Average: 0.0034137237296338356 [sc_4/Q1/e_1]
+Total Error Average: 8639.120166280334 [sc_4/Q1/e_1]
+Time Average: 13.414162969589233 [sc_4/Q1/e_1]
+
+
+Error Rate Average: 0.0016766427331999759 [sc_4/Q1/e_2]
+Total Error Average: 4263.114374727871 [sc_4/Q1/e_2]
+Time Average: 13.373032903671264 [sc_4/Q1/e_2]
+
+
+Error Rate Average: 0.0008049393155316108 [sc_4/Q1/e_4]
+Total Error Average: 2030.5875481370178 [sc_4/Q1/e_4]
+Time Average: 13.61915111541748 [sc_4/Q1/e_4]
+
+
+Error Rate Average: 0.0004895755531987545 [sc_4/Q1/e_8]
+Total Error Average: 1217.3171476877178 [sc_4/Q1/e_8]
+Time Average: 13.56140489578247 [sc_4/Q1/e_8]
+
+
+Error Rate Average: 0.0017801753960504907 [sc_5/Q1/e_1]
+Total Error Average: 9156.018887091534 [sc_5/Q1/e_1]
+Time Average: 26.421729826927184 [sc_5/Q1/e_1]
+
+
+Error Rate Average: 0.0008619433141344439 [sc_5/Q1/e_2]
+Total Error Average: 4366.772201081494 [sc_5/Q1/e_2]
+Time Average: 26.77629737854004 [sc_5/Q1/e_2]
+
+
+Error Rate Average: 0.0005243959791351252 [sc_5/Q1/e_4]
+Total Error Average: 2694.2173587325115 [sc_5/Q1/e_4]
+Time Average: 26.99536633491516 [sc_5/Q1/e_4]
+
+
+Error Rate Average: 0.00026611262536946096 [sc_5/Q1/e_8]
+Total Error Average: 1379.6812081192518 [sc_5/Q1/e_8]
+Time Average: 26.82507312297821 [sc_5/Q1/e_8]
+
+
+Error Rate Average: 0.0008698134274166263 [sc_6/Q1/e_1]
+Total Error Average: 8780.182346088885 [sc_6/Q1/e_1]
+Time Average: 53.503644585609436 [sc_6/Q1/e_1]
+
+
+Error Rate Average: 0.0004058211888820662 [sc_6/Q1/e_2]
+Total Error Average: 4163.55158195455 [sc_6/Q1/e_2]
+Time Average: 53.31933104991913 [sc_6/Q1/e_2]
+
+
+Error Rate Average: 0.00026268419414232495 [sc_6/Q1/e_4]
+Total Error Average: 2724.3604624440472 [sc_6/Q1/e_4]
+Time Average: 54.29296474456787 [sc_6/Q1/e_4]
+
+
+Error Rate Average: 0.00013096657269414508 [sc_6/Q1/e_8]
+Total Error Average: 1365.529726613016 [sc_6/Q1/e_8]
+Time Average: 54.14887444972992 [sc_6/Q1/e_8]
+
+
